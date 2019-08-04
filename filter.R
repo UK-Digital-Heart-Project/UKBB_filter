@@ -30,3 +30,6 @@ sapply(icd10_cols, function(x) {
                    diagnoses_main_icd10_f41202_0_0 == âI509",
          select=c(eid,x))
 })
+
+library(dplyr)
+UKBB %>% filter_all(any_var(.=="I500" | .=="I501"))
