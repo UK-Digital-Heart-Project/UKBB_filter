@@ -1,6 +1,6 @@
 # UKBB_filter
 
-## any heart failure*
+## Any heart failure
 *ICD-10 (40001, 400002, 41202, 41204)*  
   I11.0 (I110) – Hypertensive heart disease with HF  
   I13.0 (I130)  – Hypertensive heart and renal disease with HF  
@@ -14,17 +14,17 @@
   I50.1 (I501) – left ventricular failure  
   I50.9 (I509) – HF, unspecified 
   
-*ICD-9 (41203, 41205)*
-  428 – HF
-  425 – CM
-  4254 – other primary CM
-  4280 – congestive HF
-  4281 – left HF
-  4289 – HF unspecified
+*ICD-9 (41203, 41205)*  
+  428 – HF  
+  425 – CM  
+  4254 – other primary CM  
+  4280 – congestive HF  
+  4281 – left HF  
+  4289 – HF unspecified  
   
-*Self-reported (20002)*
-  1076 – HF/pulmonary oedema
-  1079 - CM
+*Self-reported (20002)*  
+  1076 – HF/pulmonary oedema  
+  1079 - CM  
 
 ## non-ischaemic cardiomyopathy
 *ICD-10 (40001, 400002, 41202, 41204)*  
@@ -41,12 +41,12 @@
   4281 – left HF  
   4289 – HF unspecified  
   
-*Self-reported (20002)*
+*Self-reported (20002)*  
   1076 – HF/pulmonary oedema  
   1079 - CM  
 
 ## coronary artery disease
-*ICD-10 (40001, 400002, 41202, 41204)*
+*ICD-10 (40001, 400002, 41202, 41204)*  
   I21.0 (I210) – acute anterior MI  
   I21.1 (I211) – acute inferior MI  
   I21.2 (I212) – acute other site MI  
@@ -65,7 +65,7 @@
   411  
   412  
   
-*Self-reported (20002, 20004)*
+*Self-reported (20002, 20004)*  
   1075 - MI  
   1095 – CABG  
   1523 – Triple heart bypass  
