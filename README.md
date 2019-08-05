@@ -60,7 +60,7 @@
   I22.9 (I229) – subsequent unspecified site MI  
   I25.2 – old MI  
   
-*ICD-9 (41203, 41205)*
+*ICD-9 (41203, 41205)*  
   410  
   411  
   412  
