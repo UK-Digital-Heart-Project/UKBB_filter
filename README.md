@@ -1,4 +1,11 @@
-# UKBB_filter
+# UKBB filter
+
+Code for filtering UK biobank data for heart failure phenotypes.
+
+```
+bb <- fread("filename.tab", header=TRUE, sep="\t", fill=TRUE)
+```
+Change \<filename\> to the `.tab` UKBB data file.
 
 ## Any heart failure
 **ICD-10 (40001, 400002, 41202, 41204)**  
