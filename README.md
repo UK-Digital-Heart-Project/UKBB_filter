@@ -71,5 +71,5 @@
   1523 – Triple heart bypass  
   1070 – Coronary angioplasty +/- stenting  
   
-# vascular problems diagnosed by dr (6150)
+## vascular problems diagnosed by dr (6150)
   1 – heart attack  
