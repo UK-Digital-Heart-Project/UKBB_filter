@@ -28,6 +28,7 @@ Change \<filename\> to the `.tab` UKBB data file.
 
 **Non-ischaemic cardiomyopathy (Aragam definition)**  
  Hospitalisation or death due to the following codes: ICD-10: I42.0 (dilated cardiomyopathy) and I50.1 (left ventricular failure), ICD-9: left heart failure (4281); excluding individuals with HCM (ICD10 codes I42.1 and I42.2, and self reported HCM at nurse interview) and coronary artery disease (defined below). 
+
 **Coronary artery disease**  
   Coronary artery disease (as defined below). 
   
