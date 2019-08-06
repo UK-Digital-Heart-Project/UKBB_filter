@@ -7,6 +7,28 @@ bb <- fread("filename.tab", header=TRUE, sep="\t", fill=TRUE)
 ```
 Change \<filename\> to the `.tab` UKBB data file.
 
+## UK Biobank data fields searched
+  Patient self- reported non-cancer diagnosis (datafield 20002) and operations (datafield 2004) at initial nurse-led interview.
+  
+  Primary (datafield 40001) and contributory/secondary (datafield 40002) causes of death.
+  
+  Primary (ICD-10 - datafield 41202; ICD-9 - datafield 41203) and secondary (ICD-10 41204; ICD-9 datafield 41205) diagnosis codes recorded during all hospital admission episodes. 
+  
+  Patient self-reported previous vascular problems diagnosed by a doctor (datafield 6150). 
+  
+## UK Biobank disease phenotype definitions
+**All cause heart failure**  
+  Any heart failure (as defined below) excluding individuals with HCM (ICD10 codes I42.1 and I42.2, and self reported HCM at nurse interview).
+  
+**Non-ischaemic cardiomyopathy (or heart failure without known coronary artery disease)**  
+  Any heart failure (as defined below) excluding individuals with HCM (ICD10 codes I42.1 and I42.2, and self reported HCM at nurse interview) and coronary artery disease (defined below).
+  
+**Non-ischaemic cardiomyopathy (SZ definition)**  
+  Non-ischaemic cardiomyopathy (as defined below) excluding individuals with HCM (ICD10 codes I42.1 and I42.2, and self reported HCM at nurse interview) and coronary artery disease (defined below). 
+  
+**Coronary artery disease**  
+  Coronary artery disease (as defined below). 
+  
 ## Any heart failure
 **ICD-10 (40001, 400002, 41202, 41204)**  
   I11.0 (I110) – Hypertensive heart disease with HF  
